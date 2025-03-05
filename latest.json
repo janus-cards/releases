@@ -1,12 +1,12 @@
 {
-  "version": "0.0.6",
-  "releaseDate": "2025-03-05T11:04:21Z",
+  "version": "0.0.7",
+  "releaseDate": "2025-03-05T14:56:24Z",
   "platforms": {
-    "windows": "https://github.com/janus-cards/releases/releases/download/v0.0.6/Janus-Setup-0.0.6.exe",
+    "windows": "https://github.com/janus-cards/releases/releases/download/v0.0.7/Janus-Setup-0.0.7.exe",
     "mac": {
-      "intel": "https://github.com/janus-cards/releases/releases/download/v0.0.6/Janus-0.0.6.dmg",
-      "arm64": "https://github.com/janus-cards/releases/releases/download/v0.0.6/Janus-0.0.6-arm64.dmg"
+      "intel": "https://github.com/janus-cards/releases/releases/download/v0.0.7/Janus-0.0.7.dmg",
+      "arm64": "https://github.com/janus-cards/releases/releases/download/v0.0.7/Janus-0.0.7-arm64.dmg"
     },
-    "linux": "https://github.com/janus-cards/releases/releases/download/v0.0.6/Janus-0.0.6.AppImage"
+    "linux": "https://github.com/janus-cards/releases/releases/download/v0.0.7/Janus-0.0.7.AppImage"
   }
 }

@@ -26,6 +26,7 @@ Information on patches is added below minor version
 
 #### Patches
 
+- 0.0.7: Fixed inbox and settings not being loaded on login.
 - 0.0.6: Updater for the desktop app.
 - 0.0.5: Fixed mismatch of unifiedjs versions.
 - 0.0.4: Added changelog.
