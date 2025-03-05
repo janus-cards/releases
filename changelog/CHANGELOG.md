@@ -15,12 +15,17 @@ Information on patches is added below minor version
 
 ![Generate Flashcards Prompt](./0-0-x.png)
 
-- Invited users can now sign up with Google and generate flashcards from:
-  - PDFs
-  - Readwise Highlights
-  - Obsidian Writing Sessions (Integration Plugin Pending)
+- Invited users can now **sign up with Google** and:
+  - **Generate flashcards** from:
+    - PDFs
+    - Readwise Highlights
+    - Obsidian Writing Sessions (Integration Plugin Pending)
+  - **Export to**:
+    - Mochi
+    - Anki
 
 #### Patches
 
-0.0.5: Fixed mismatch of unifiedjs versions.
-0.0.4: Added changelog.
+- 0.0.6: Updater for the desktop app.
+- 0.0.5: Fixed mismatch of unifiedjs versions.
+- 0.0.4: Added changelog.
