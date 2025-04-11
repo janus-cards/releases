@@ -9,6 +9,24 @@ Information on patches is added below minor version
 
 ### Fixes
 
+## 0.3 (2025-04-07)
+
+### Magic Generate More
+
+![Magic Generate More](./0-3-x.gif)
+
+- For a given snippet, you can prompt the AI to generate more
+- AI sees existing flashcards and can avoid generating duplicates
+
+## 0.2 (2025-04-02)
+
+### Purchasable Credits
+
+![Stripe Integration](https://easydigitaldownloads.com/wp-content/uploads/edd/2019/03/stripe-product-image.png)
+
+- Can purchase more credits with Stripe.
+- Support email in use dropdown menu.
+
 ## 0.1 (2025-03-27)
 
 ### Early Access Web Release
